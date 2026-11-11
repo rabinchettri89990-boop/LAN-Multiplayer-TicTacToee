@@ -14,13 +14,8 @@ A Java Swing-based multiplayer Tic-Tac-Toe game that allows two players to play 
 - Winner and draw announcements.
 - Restart game functionality.
 
- 🛠️ Technologies Used
+ <img width="1435" height="988" alt="Screenshot 2026-11-11 171514" src="https://github.com/user-attachments/assets/9abf40b6-7c4e-416f-a10c-99ddf4ec6674" />
 
-- Java
-- Java Swing (GUI)
-- TCP Sockets
-- Networking
-- Visual Studio Code
  ▶️ How to Run
 
  Requirements
